@@ -1,0 +1,2 @@
+Out of 40 intervals, 3 did NOT contain the true mean.
+This is roughly 7.50%, close to the expected 5% for a 95% CI
