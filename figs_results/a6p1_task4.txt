@@ -1,0 +1,23 @@
+Uniform: Original variance = 1.3333
+  m=1, Variance of mean = 1.3422, Expected = 1.3333
+  m=2, Variance of mean = 0.7030, Expected = 0.6667
+  m=10, Variance of mean = 0.1466, Expected = 0.1333
+  m=100, Variance of mean = 0.0136, Expected = 0.0133
+----------------------------------------
+Normal: Original variance = 1.0000
+  m=1, Variance of mean = 0.9682, Expected = 1.0000
+  m=2, Variance of mean = 0.4677, Expected = 0.5000
+  m=10, Variance of mean = 0.0956, Expected = 0.1000
+  m=100, Variance of mean = 0.0099, Expected = 0.0100
+----------------------------------------
+Lognormal: Original variance = 0.3647
+  m=1, Variance of mean = 0.3266, Expected = 0.3647
+  m=2, Variance of mean = 0.1785, Expected = 0.1823
+  m=10, Variance of mean = 0.0382, Expected = 0.0365
+  m=100, Variance of mean = 0.0036, Expected = 0.0036
+----------------------------------------
+Gumbel-1: Original variance = 1.6449
+  m=1, Variance of mean = 1.5498, Expected = 1.6449
+  m=2, Variance of mean = 0.8417, Expected = 0.8225
+  m=10, Variance of mean = 0.1658, Expected = 0.1645
+  m=100, Variance of mean = 0.0160, Expected = 0.0164
